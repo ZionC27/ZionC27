@@ -3,7 +3,7 @@
 <h3 align="center">My name is Zion a passionate Software and Hardware developer from Canada</h3>
 
 </p>
-- 📄 Know about my experiences [https://www.linkedin.com/in/zion-c/](https://www.linkedin.com/in/zion-c/)
+- 📄 Know about my experiences https://www.linkedin.com/in/zion-c/
 
 
 
