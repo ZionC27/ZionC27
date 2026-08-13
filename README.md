@@ -6,7 +6,7 @@
 
 I build intelligent systems that see, understand, and interact with the visual world in the **mining industry** — from object detection and segmentation to real-time video analytics. Also passionate about **IoT and edge devices** for smart, connected applications.
 
-🌱 **Currently working on** a computer vision system for sports analytics
+🌱 **Currently working on** a computer vision system
 
 Open to collaborations on computer vision projects and research. Thanks for visiting! 🚀
 
